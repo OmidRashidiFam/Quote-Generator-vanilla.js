@@ -1,3 +1,3 @@
-# Code with OmidRashidifam (vanilla.js project)
+# Code by OmidRashidifam (vanilla.js project)
 
 Hello, world!
